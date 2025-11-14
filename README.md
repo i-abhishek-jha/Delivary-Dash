@@ -1,7 +1,7 @@
 # 🎮 Delivery Dash  
 *A colorful, quirky top-down delivery game built in Unity.*
 
-![Gameplay Preview](https://www.linkedin.com/posts/abhishekkrjha_unity-gamedev-csharp-ugcPost-7390147081073594368-NdDo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhSf58By8F7VrhT40hfDxIOufBOPi_cjA4)
+![Gameplay Preview] - (https://www.linkedin.com/posts/abhishekkrjha_unity-gamedev-csharp-ugcPost-7390147081073594368-NdDo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhSf58By8F7VrhT40hfDxIOufBOPi_cjA4)
 
 ---
 
